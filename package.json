@@ -1,5 +1,5 @@
 {
-  "name": "@portfolio-platform/template-sdk",
+  "name": "@portfolios-hub/template-sdk",
   "version": "0.0.0",
   "private": true,
   "description": "SDK for building Portfolios templates",
